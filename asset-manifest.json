@@ -1,0 +1,37 @@
+{
+  "files": {
+    "static/js/0.0878bdf1.chunk.js": "/connect-io/static/js/0.0878bdf1.chunk.js",
+    "static/js/0.0878bdf1.chunk.js.map": "/connect-io/static/js/0.0878bdf1.chunk.js.map",
+    "main.css": "/connect-io/static/css/main.05ed4bc9.chunk.css",
+    "main.js": "/connect-io/static/js/main.d8fc606e.chunk.js",
+    "main.js.map": "/connect-io/static/js/main.d8fc606e.chunk.js.map",
+    "runtime-main.js": "/connect-io/static/js/runtime-main.4dbbea60.js",
+    "runtime-main.js.map": "/connect-io/static/js/runtime-main.4dbbea60.js.map",
+    "static/css/3.18fb2ca0.chunk.css": "/connect-io/static/css/3.18fb2ca0.chunk.css",
+    "static/js/3.0bb151cb.chunk.js": "/connect-io/static/js/3.0bb151cb.chunk.js",
+    "static/js/3.0bb151cb.chunk.js.map": "/connect-io/static/js/3.0bb151cb.chunk.js.map",
+    "static/js/4.7d0bdd69.chunk.js": "/connect-io/static/js/4.7d0bdd69.chunk.js",
+    "static/js/4.7d0bdd69.chunk.js.map": "/connect-io/static/js/4.7d0bdd69.chunk.js.map",
+    "static/js/5.5ecbfef4.chunk.js": "/connect-io/static/js/5.5ecbfef4.chunk.js",
+    "static/js/5.5ecbfef4.chunk.js.map": "/connect-io/static/js/5.5ecbfef4.chunk.js.map",
+    "static/js/6.fc8351ab.chunk.js": "/connect-io/static/js/6.fc8351ab.chunk.js",
+    "static/js/6.fc8351ab.chunk.js.map": "/connect-io/static/js/6.fc8351ab.chunk.js.map",
+    "static/js/7.b9a5c2d3.chunk.js": "/connect-io/static/js/7.b9a5c2d3.chunk.js",
+    "static/js/7.b9a5c2d3.chunk.js.map": "/connect-io/static/js/7.b9a5c2d3.chunk.js.map",
+    "static/js/8.953f111f.chunk.js": "/connect-io/static/js/8.953f111f.chunk.js",
+    "static/js/8.953f111f.chunk.js.map": "/connect-io/static/js/8.953f111f.chunk.js.map",
+    "index.html": "/connect-io/index.html",
+    "precache-manifest.b1388b9284654485f6c1359248e1875f.js": "/connect-io/precache-manifest.b1388b9284654485f6c1359248e1875f.js",
+    "service-worker.js": "/connect-io/service-worker.js",
+    "static/css/3.18fb2ca0.chunk.css.map": "/connect-io/static/css/3.18fb2ca0.chunk.css.map",
+    "static/css/main.05ed4bc9.chunk.css.map": "/connect-io/static/css/main.05ed4bc9.chunk.css.map",
+    "static/js/3.0bb151cb.chunk.js.LICENSE.txt": "/connect-io/static/js/3.0bb151cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dbbea60.js",
+    "static/css/3.18fb2ca0.chunk.css",
+    "static/js/3.0bb151cb.chunk.js",
+    "static/css/main.05ed4bc9.chunk.css",
+    "static/js/main.d8fc606e.chunk.js"
+  ]
+}
