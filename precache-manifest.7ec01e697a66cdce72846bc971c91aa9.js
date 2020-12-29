@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24b0f67215dcf2263ef22601996d21fa",
+    "revision": "59e1d1d3fded1644108f80b411ceda22",
     "url": "/connectio-fe/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connectio-fe/static/css/3.18fb2ca0.chunk.css"
   },
   {
-    "revision": "96484c2203129b93b2e4",
+    "revision": "c21a85067286f23b88d5",
     "url": "/connectio-fe/static/css/main.05ed4bc9.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connectio-fe/static/js/8.953f111f.chunk.js"
   },
   {
-    "revision": "96484c2203129b93b2e4",
-    "url": "/connectio-fe/static/js/main.d4c5b68d.chunk.js"
+    "revision": "c21a85067286f23b88d5",
+    "url": "/connectio-fe/static/js/main.606b345d.chunk.js"
   },
   {
     "revision": "19401805f5ee9564cb97",
